@@ -23,7 +23,7 @@ vorgenommen. Im Übrigen wird ein horizontaler Zwischenraum eingefügt,
 comp an die aktuelle Position platziert, die x-Postion um die Breite von comp
 verschoben und die Zeilenhöhe auf das Maximum der bisherigen Höhe und
 der Höhe von comp festgelegt.
-Eine Anwendung des TextLayouts zeigt Abbildung 12.15. Nach jeder aus
+Nach jeder aus
 der Textdatei gelesenen Zeile wird in der Behälterkomponente eine Umbruchsmarkierung
 in Form einer LineBreak-Komponente eingefügt. Da
 auch leere Zeilen zu einem Umbruch führen, kann man mittels Leerzeilen
